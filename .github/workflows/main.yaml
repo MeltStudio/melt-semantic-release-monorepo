@@ -9,9 +9,6 @@ jobs:
   code-checks:
     name: Run code checks and quality tools
     uses: ./.github/workflows/_code_checks.yaml
-    secrets:
-      turbo-team: ${{ secrets.VERCEL_ORG_SCOPE }}
-      turbo-token: ${{ secrets.VERCEL_TOKEN }}
 
   release:
     name: Create a new production release

@@ -6,9 +6,9 @@ plugin also updates the version for the internal dependencies.
 
 _Note:_ This plugin only supports yarn monorepos.
 
-| Step      | Description                                                                                              |
-| --------- | -------------------------------------------------------------------------------------------------------- |
-| `prepare` | Update the `package.json` version and [create](https://docs.npmjs.com/cli/pack) the npm package tarball. |
+| Step      | Description                                                                     |
+| --------- | ------------------------------------------------------------------------------- |
+| `prepare` | Update the `package.json` and internal dependencies versions in all workspaces. |
 
 ## Install
 

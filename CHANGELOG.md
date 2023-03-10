@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.1...v1.0.2) (2023-03-10)
+
+
+### Bug Fixes
+
+* add .npmrc ([cfa2ecb](https://github.com/MeltStudio/melt-semantic-release-monorepo/commit/cfa2ecbeb97804e3e51c0dd809586e311792d6be))
+
 ## [1.0.1](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.0...v1.0.1) (2023-03-10)
 
 

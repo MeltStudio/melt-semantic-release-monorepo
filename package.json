@@ -1,6 +1,6 @@
 {
   "name": "@meltstudio/semantic-release-monorepo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Semantic release plugin to bump all the workspaces in a monorepo",
   "main": "index.js",
   "repository": "https://github.com/MeltStudio/melt-semantic-release-monorepo",

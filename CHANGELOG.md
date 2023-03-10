@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.2...v1.0.3) (2023-03-10)
+
+
+### Bug Fixes
+
+* add scope in .npmrc ([076de08](https://github.com/MeltStudio/melt-semantic-release-monorepo/commit/076de0877b8d4c6c2bc8703ae81e8f851cc96971))
+
 ## [1.0.2](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.1...v1.0.2) (2023-03-10)
 
 

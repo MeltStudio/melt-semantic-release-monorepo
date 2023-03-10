@@ -1,0 +1,47 @@
+{
+  "name": "@meltstudio/semantic-release-monorepo",
+  "version": "0.0.0",
+  "description": "Semantic release plugin to bump all the workspaces in a monorepo",
+  "main": "index.js",
+  "repository": "https://github.com/MeltStudio/melt-semantic-release-monorepo",
+  "author": "MeltStudio <dev@meltstudio.co>",
+  "license": "MIT",
+  "keywords": [
+    "semantic-release",
+    "version",
+    "monorepo"
+  ],
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint --ext .js --max-warnings=0 .",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "replace-in-file": "^6.3.5"
+  },
+  "peerDependencies": {
+    "semantic-release": ">=19.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.4",
+    "@commitlint/config-conventional": "^17.4.4",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.7.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jest": "^27.2.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.2",
+    "prettier": "^2.8.4"
+  },
+  "engines": {
+    "node": ">=16 || ^14.17"
+  }
+}

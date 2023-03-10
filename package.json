@@ -16,7 +16,6 @@
     "index.js"
   ],
   "scripts": {
-    "prepare": "husky install",
     "lint": "eslint --ext .js --max-warnings=0 .",
     "format": "prettier --write ."
   },

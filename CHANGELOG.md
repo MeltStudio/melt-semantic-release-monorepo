@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.3...v1.0.4) (2023-03-10)
+
+
+### Bug Fixes
+
+* add README.md ([3412136](https://github.com/MeltStudio/melt-semantic-release-monorepo/commit/3412136f3e74422be50a09fa5121444afaab5529))
+
 ## [1.0.3](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.2...v1.0.3) (2023-03-10)
 
 

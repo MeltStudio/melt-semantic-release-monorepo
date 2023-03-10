@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.0...v1.0.1) (2023-03-10)
+
+
+### Bug Fixes
+
+* remove prepare script ([d1ca946](https://github.com/MeltStudio/melt-semantic-release-monorepo/commit/d1ca946dba0406a54bb72a575e54a32da10c39ed))
+
 # 1.0.0 (2023-03-10)
 
 

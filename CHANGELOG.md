@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.5...v1.0.6) (2023-03-11)
+
+
+### Bug Fixes
+
+* use module.exports for prepare ([c5a32e2](https://github.com/MeltStudio/melt-semantic-release-monorepo/commit/c5a32e2e83e6e28e5e25dc0debeaf704d417151f))
+
 ## [1.0.5](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.4...v1.0.5) (2023-03-10)
 
 

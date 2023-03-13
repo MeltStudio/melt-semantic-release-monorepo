@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.6...v1.0.7) (2023-03-13)
+
+
+### Bug Fixes
+
+* remove stdout pipe ([9d09467](https://github.com/MeltStudio/melt-semantic-release-monorepo/commit/9d09467bf3089d13c19b96aa17e7fdf4d83e97ee))
+
 ## [1.0.6](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.5...v1.0.6) (2023-03-11)
 
 

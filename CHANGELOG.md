@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.7...v2.0.0) (2023-04-11)
+
+
+### Features
+
+* add config to opt-out of replacing internal versions ([756562e](https://github.com/MeltStudio/melt-semantic-release-monorepo/commit/756562ef484d1499c32ea506b9bf4dfef503211f))
+
+
+### BREAKING CHANGES
+
+* the new flag replaceInternalPackages is false by
+default
+
 ## [1.0.7](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.6...v1.0.7) (2023-03-13)
 
 

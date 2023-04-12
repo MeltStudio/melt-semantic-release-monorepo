@@ -30,3 +30,11 @@ The plugin can be configured in the
   ]
 }
 ```
+
+## Configuration
+
+### Options
+
+| Options                   | Description                                                 | Default |
+| ------------------------- | ----------------------------------------------------------- | ------- |
+| `replaceInternalPackages` | Whether or not to replace the version for internal packages | `false` |

@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v2.0.1...v2.1.0) (2023-11-23)
+
+
+### Features
+
+* use @manypkg/get-packages to support npm and pnpm ([eaf2f69](https://github.com/MeltStudio/melt-semantic-release-monorepo/commit/eaf2f69aa1867518a3349874315ea7c62731aa12))
+
 ## [2.0.1](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v2.0.0...v2.0.1) (2023-11-23)
 
 

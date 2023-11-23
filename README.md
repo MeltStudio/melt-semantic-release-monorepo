@@ -4,8 +4,6 @@
 plugin to bump the version in all the `package.json`s inside a monorepo. This
 plugin also updates the version for the internal dependencies.
 
-_Note:_ This plugin only supports yarn monorepos.
-
 | Step      | Description                                                                     |
 | --------- | ------------------------------------------------------------------------------- |
 | `prepare` | Update the `package.json` and internal dependencies versions in all workspaces. |

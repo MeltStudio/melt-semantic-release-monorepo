@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v2.0.0...v2.0.1) (2023-11-23)
+
+
+### Bug Fixes
+
+* improve the workspaces parsing logic and logging ([a948c8b](https://github.com/MeltStudio/melt-semantic-release-monorepo/commit/a948c8b4b855907be87cfd78f9a6e9b90e4f0c09))
+
 # [2.0.0](https://github.com/MeltStudio/melt-semantic-release-monorepo/compare/v1.0.7...v2.0.0) (2023-04-11)
 
 
